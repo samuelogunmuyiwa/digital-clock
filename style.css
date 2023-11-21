@@ -48,7 +48,7 @@ body {
 }
 
 #min::after {
-	content: 'MIN';
+	content: 'MINS';
 }
 
 #sec::after {
